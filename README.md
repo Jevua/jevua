@@ -56,3 +56,12 @@ Here are some ideas to get you started:
     nothing.
   <br>
 </details>
+
+<br>
+<p align="center">
+  <samp>
+    < img src="https://i.imgur.com/kdKhgx6.gif" width="240px" align="center">
+  </samp>
+</p >
+
+
