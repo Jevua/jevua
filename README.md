@@ -58,10 +58,5 @@ Here are some ideas to get you started:
 </details>
 
 <br>
-<p align="center">
-  <samp>
-    < img src="https://i.imgur.com/kdKhgx6.gif" width="240px" align="center">
-  </samp>
-</p >
 
-
+![image](https://github.com/pifafu/dough-baby/blob/master/app/images/01.gif)
